@@ -1,12 +1,14 @@
 # chrome-extension-reactjs-scaffolding
 
-Very basic setup to start to build a chrome extension with reactJS that is trigger by the following actions:
+Very basic setup to start to build a chrome extension with reactJS.
+
+The extension demonstrate communication between a web page and an extension and will be trigger by the following actions:
 
 * Text selection in the web page,  will open the extension
 * Click on the extension icon, will open the extension
 * Contextual menu
 
-The extension will appears as a "floating" extension on the bottom right of any web page or as a contextual menu.
+The extension will appears as a "floating button " on the bottom right of any web page or as a contextual menu.
 
 
 ## Available Scripts
